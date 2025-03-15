@@ -3,6 +3,3 @@ I am a computer engineering student very interested in technology, machine learn
 
 
  
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1p7&show_icons=true&theme=dracula)
-
